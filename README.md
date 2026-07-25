@@ -83,5 +83,5 @@ streamlit run app.py
 
 ## 👨‍💻 Authors
 
+- Nidhi
 - Satendra
-- Collaborator
